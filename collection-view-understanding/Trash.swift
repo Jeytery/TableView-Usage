@@ -1,10 +1,11 @@
 //
-//  ViewController.swift
+//  Trash.swift
 //  collection-view-understanding
 //
 //  Created by Dmytro Ostapchenko on 18.09.2023.
 //
 
+import Foundation
 import UIKit
 
 //class SomeCell: Cell {
@@ -15,7 +16,7 @@ import UIKit
 //    }
 //}
 
-class ViewController: UIViewController {
+class __ViewController: UIViewController {
 
     private let dataArr1: [Int] = []
     
@@ -57,4 +58,3 @@ class ViewController: UIViewController {
 //        }
     }
 }
-
